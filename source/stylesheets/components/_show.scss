@@ -1,0 +1,20 @@
+.banner-show {
+  background-size: 400px;
+}
+
+.header-flat-details {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    padding-left: 0;
+}
+
+.header-flat-owner {
+    padding: 20px;
+
+}
+
+#flat-description {
+  background-color: $gray-light;
+  color: white;
+}
